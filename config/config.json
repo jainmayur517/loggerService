@@ -1,0 +1,10 @@
+{
+    "smtp_mail": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "secure": false,
+        "auth_user": "vena.strosin99@ethereal.email",
+        "auth_pass": "xxQ9UzNhgy3DKJvHyT"
+    },
+    "mail_period": 86400
+}

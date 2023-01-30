@@ -7,11 +7,11 @@
 {"level":"error","message":"Service shutdown"}
 {"host":"localhost:8000","ipUser":"::ffff:127.0.0.1","level":"error","route":"/mayur","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 15:32:15:567"}
 {"host":"localhost:8000","ipUser":"::1","level":"error","route":"/mayur","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 15:32:17:1"}
-{"host":"localhost:8000","ipUser":"::1","level":"error","route":"/harsh","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 16:48:51:630"}
-{"host":"localhost:8000","ipUser":"::1","level":"error","route":"/harsh","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 16:48:52:263"}
+{"host":"localhost:8000","ipUser":"::1","level":"error","route":"/ss","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 16:48:51:630"}
+{"host":"localhost:8000","ipUser":"::1","level":"error","route":"/ss","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 16:48:52:263"}
 {"level":"error","time":"2023-01-29 16:58:21:508"}
 {"level":"error","time":"2023-01-29 17:11:1:904"}
-{"host":"localhost:8000","ipUser":"::1","level":"error","route":"/harsh","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 17:22:41:602"}
+{"host":"localhost:8000","ipUser":"::1","level":"error","route":"/ss","sender":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","time":"2023-01-29 17:22:41:602"}
 {"error":{},"level":"error","time":"2023-01-29 18:8:34:18"}
 {"error":{},"level":"error","time":"2023-01-29 19:53:57:616"}
 {"error":{},"level":"error","time":"2023-01-29 21:16:3:293"}
@@ -33,3 +33,4 @@
 {"level":"error","time":"2023-01-29 21:53:36:94"}
 {"err":"ReferenceError: a is not defined","level":"error","time":"2023-01-29 22:15:17:881"}
 {"err":"ReferenceError: a is not defined","level":"error","serviceName":"demoService1","time":"2023-01-29 22:18:2:825"}
+{"err":"ReferenceError: a is not defined","level":"error","serviceName":"demoService1","time":"2023-01-30 13:14:18:147"}

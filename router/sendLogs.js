@@ -1,9 +1,11 @@
+//To trigger the mail service manually
+
 const express = require('express');
 const router = express.Router();
-const mailService=require('../controller/mailService')
+const mailService = require('../controller/mailService')
 
 
-router.post('/',async(req,res)=>{
+router.post('/', async (req, res) => {
     await mailService();
     return res.status(201).json({ message: 'mailed' });
 })
